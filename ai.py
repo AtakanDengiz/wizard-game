@@ -41,7 +41,7 @@ item_boxes = {
 }
 
 # define colours
-BG = (144, 201, 120)
+BG = (21, 21, 21)
 RED = (255, 0, 0)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
